@@ -1,12 +1,13 @@
-# 3D 2048
+# 2048 - 3D
 Based on [Gabriele Cirulli's 2048](http://gabrielecirulli.github.io/2048/).
 
-Made just for fun. [Play it here!](http://baiqiang.github.io/2048-3d/)
+Made just for fun. [Play it here!](http://thereal23.github.io/2048-3D/)
 
-## Changes from regular game
+## Changes from regular 2048 - 3D game
 
 * 3D 3x3x3 grid
 * Special tiles
+* Layers Mode
 
 ### Special tiles
 
@@ -16,4 +17,4 @@ It's not a really bonus tile. I added them just to increase difficulty. Since th
 
 ## How to play
 
-Use your arrow keys to move the tiles, R(or Q) and F(or E) to move ahead and back, any useless letter key to rotate, hold 1, 2 or 3 to hide layers, ESC and 0 to restart. When two tiles with the same number touch, they merge into one!.
+Use your arrow keys to move the tiles. Q, E to move ahead and back. Hold 1, 2 or 3 to hide layers, ESC and 0 to restart. When two tiles with the same number touch, they merge into one!.
